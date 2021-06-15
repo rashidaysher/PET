@@ -1,5 +1,5 @@
 # Pet
-#### this project is to ensure both pairs understands the use of readme and how to write a proffesional and proper read me file folder.
+#### This project is to ensure both pairs understands the use of readme and how to write a proffesional and proper read me file folder.
 #### THe current version was updated on June, 15/2021
 
 ### Contributors: Cherop Sharon and Rashid Aisha
@@ -13,6 +13,13 @@ Golden Retriever| 5YRS | Scottland | Golden |
 German Shephaer | puppy | Germany | Black & White |
 Huskies | 2yrs | Siberia | BLack N White |
 Chihuhahuas | 5Month | Mexico | white |
+
+## Support and  Contact Details
+In case of any problems, don't hestitate to contact the developers mentioned above through hhhgggh@gmmm.com. or
+
+## All right Reserved (C) 2021
+## Moringa School
+
 
 
 
