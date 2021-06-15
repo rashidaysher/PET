@@ -10,6 +10,12 @@
 Breed           | Age| Coutry of Origin| Color
 ---|---|---|---|
 Golden Retriever| 5YRS | Scottland | Golden |
+German Shephaer | puppy | Germany | Black & White |
+Huskies | 2yrs | Siberia | BLack N White |
+Chihuhahuas | 5Month | Mexico | white |
+
+
+
 
 
 
