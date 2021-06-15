@@ -7,9 +7,10 @@
 
 ##### Table List
 
-|Breed           | Age| Coutry of Origin| Color|
-|----------------m-----|------|----|
-|Golden Retriever|5yrs|Scotland|Golden|
+Breed           | Age| Coutry of Origin| Color
+---|----|----|----
+
+Golden Retriever|5yrs|Scotland|Golden
 
 
 
